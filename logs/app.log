@@ -1,0 +1,8 @@
+2023-11-09 12:26:51,051 INFO o.e.c.Client [main]:36 Sent request from client: Test
+2023-11-09 12:26:51,072 INFO o.e.s.RunPulsarServer [main]:38 Received request from client: Test
+2023-11-09 12:26:51,113 INFO o.e.s.RunPulsarServer [main]:42 Send response to client: TeSt
+2023-11-09 12:26:51,115 INFO o.e.c.Client [main]:39 Received request from server: TeSt
+2023-11-09 12:26:56,778 INFO o.e.c.Client [main]:36 Sent request from client: edit-command
+2023-11-09 12:26:56,779 INFO o.e.s.RunPulsarServer [main]:38 Received request from client: edit-command
+2023-11-09 12:26:56,799 INFO o.e.s.RunPulsarServer [main]:42 Send response to client: This is command: edit-command
+2023-11-09 12:26:56,799 INFO o.e.c.Client [main]:39 Received request from server: This is command: edit-command
